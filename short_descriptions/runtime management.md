@@ -1,0 +1,1 @@
+This parameter refers to whether the monitoring system offers also a runtime management part or not. In case of runtime management actions, also the type of it is required. This action can be considered as a control action, based on the observed behaviors.
