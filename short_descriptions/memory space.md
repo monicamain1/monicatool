@@ -1,1 +1,1 @@
-This parameter refers to the data memory requirements for the storage of raw information and the storage of monitoring information. Moreover, it also includes the instruction memory requirements for the storage of necessary information for the correct operations of the monitoring system.
+This parameter refers to the data memory requirements for the storage of raw information and the storage of monitoring information.
