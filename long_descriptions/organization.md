@@ -1,6 +1,6 @@
 In order to describe a monitoring action, an abstraction based on three parameters is used, as can be shown in the figure below.
 
-<img src="https://i.imgur.com/UQKC8iH.png" alt="drawing" width="200"/>
+<img src="https://i.imgur.com/UQKC8iH.png" alt="drawing" width="400"/>
 
 The parameters are MB-MI-MP (Monitored Behaviour - Monitoring Infrastructure - Monitoring Processor), and they are detailed in the following:
 
