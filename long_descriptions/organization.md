@@ -1,8 +1,10 @@
-The "organization" parameter refers to the implementation of the internal parts of an on-chip monitoring system, by means of a model.
+The "organization" parameter refers to the implementation of the internal parts of an on-chip monitoring system, with reference to the BIM model. 
+
+A monitoring process can be in general described trough 
 
 In general, a monitoring process... In order to describe a monitoring action, an abstraction based on three parameters is used, as can be shown in the figure below.
 
-![Global-Monitor](https://i.imgur.com/UQKC8iH.png)
+#![Global-Monitor](https://i.imgur.com/UQKC8iH.png)
 
 The parameters are MB-MI-MP (Monitored Behaviour - Monitoring Infrastructure - Monitoring Processor), and they are detailed in the following:
 
