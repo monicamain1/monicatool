@@ -6,5 +6,5 @@ The MONICA model abstracts the generic monitoring process with three parts: a Mo
 
 -Monitoring Infrastructure (MI) - MI represents all the necessary mechanisms, part of an on-chip monitoring systems, able to extract raw information. The mechanisms that are part of the monitoring infrastructure can be implemented in software or hardware: a software mechanism is a mechanism that, in order to perform the raw information extraction, uses the resources of the target under analysis. A hardware mechanism, on the other hand, is a mechanism that, in order to perform the raw information extraction, has a dedicated hardware architecture.
 
-
+-Monitoring Processor (MP) - MP represents all the necessary mechanisms, part of an on-chip monitoring system, that, by using raw information as inputs, apply some algorithms to provide monitoring information, organized in metrics. 
   
