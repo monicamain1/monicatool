@@ -8,4 +8,7 @@ The MONICA model abstracts the generic monitoring process with three parts: a Mo
 
 -Monitoring Processor (MP) - MP represents all the necessary tasks, part of an on-chip monitoring system, that, by using raw information as inputs, apply some algorithms to provide monitoring information, organized in metrics. MP can be implemented in hardware or software.
   
-MB, MI, and MP have all two possible implementations: hardware (HW) or software (SW). The organization parameter reports on the 
+MB, MI, and MP have all two possible implementations: hardware (HW) or software (SW). By considering the implementation of MB-MI-MP, it is possible to classify a monitoring process, also allowing grouping on-chip monitoring systems accordingly with such a classification.
+The possible values of the monitoring organization parameter are expressed with a triple (MB, MI, MP), indicating the type of implementation:
+
+For example, the triple (SW, HW, SW) shows that the MB is a software running on a programmable processor, while MI is implemented with dedicated hardware elements. MP, on the other hand, is again a software. The triple can describe a hardware monitoring system that extracts information about a software workload execution without introducing software overhead, and that aggregate these information, for example to get an estimation of worst-case execution time, using a software executing on the same target.
