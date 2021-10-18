@@ -1,4 +1,4 @@
-The "synchronization" paramter refers to the required synchronization among elements that implement MI, MB, MP, in order to correctly perform the monitoring action.
+The "synchronization" parameter refers to the required synchronization among elements that implement MI, MB, MP, in order to correctly perform the monitoring action.
 
 The possible values are the following ones:
 
