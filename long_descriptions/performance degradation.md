@@ -2,8 +2,6 @@ The "performance degradation" parameter refers to the maximum timing overhead ca
 
 The possible values are the following ones
 
-- unknown: it is not possible to evaluate such a parameter
-
 - value (cc): a number or a range related to the average execution time increase (in clck cycles) due to the use of the OCMS.
 
 - Not Applicable: when used in Find Mode, it means that the requirement of this parameter is not applicable for the considered monitoring requirements. Therefore, when searching for on-chip monitoring systems satisfying those monitoring requirements, only the on-chip monitoring systems with this parameter set as "Not Applicable" will be considered. When used in Insert Mode, it means that this parameter is not applicable for the described on-chip monitoring system.
