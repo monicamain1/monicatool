@@ -2,8 +2,6 @@ The "accuracy" parameter refers to the level of accuracy (relative to an actual 
 
 Set of possible values:
 
-- unknown: it is not possible to evaluate such a parameter
-
 - value (%): a number related to the relative error or to the percentage of correct classifications/responses.
 
 - Not Applicable: when used in Find Mode, it means that the requirement of this parameter is not applicable for the considered monitoring requirements. Therefore, when searching for on-chip monitoring systems satisfying those monitoring requirements, only the on-chip monitoring systems with this parameter set as "Not Applicable" will be considered. When used in Insert Mode, it means that this parameter is not applicable for the described on-chip monitoring system.
