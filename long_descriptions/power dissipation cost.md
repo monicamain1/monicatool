@@ -2,8 +2,6 @@ The "poer dissipation" parameter refers to the maximum power dissipation cost re
 
 Set of possible values:
 
-- unknown: it is not possible to evaluate such a parameter
-
 - value (mW): is a number or a range related to the average power dissipation increase due to the use of the OCMS.
 
 - Not Applicable: when used in Find Mode, it means that the requirement of this parameter is not applicable for the considered monitoring requirements. Therefore, when searching for on-chip monitoring systems satisfying those monitoring requirements, only the on-chip monitoring systems with this parameter set as "Not Applicable" will be considered. When used in Insert Mode, it means that this parameter is not applicable for the described on-chip monitoring system.
