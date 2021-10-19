@@ -2,7 +2,7 @@ The "exceptions" parameter refers to the capability of the on-chip monitoring sy
 
 The exception can be in the form of an interrupt, or more in general in the form of a special signal.
 
-The parameter can take two values: 
+The parameter can take the following values: 
 - Yes
 - No
 - Not Applicable: when used in Find Mode, it means that the requirement of this parameter is not applicable for the considered monitoring requirements. Therefore, when searching for on-chip monitoring systems satisfying those monitoring requirements, only the on-chip monitoring systems with this parameter set as "Not Applicable" will be considered. When used in Insert Mode, it means that this parameter is not applicable for the described on-chip monitoring system.
